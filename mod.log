@@ -1,0 +1,15 @@
+[16-05-07 11:24:56] Info: Compiling Depender to bin/build-160507112456639.dll...
+[16-05-07 11:24:56] Info: Compiling from `Depender.csproj`.
+[16-05-07 11:24:56] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-07 11:24:56] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-07 11:24:56] Info: Source files: Depender\Extras\GetExtra.cs, Depender\HPDebug.cs, Depender\Objects\CoasterCarMod.cs, Depender\Objects\FlatRide\CustomFlatRide.cs, Depender\Events\ApplyRotation.cs, Depender\Events\ChangePendulum.cs, Depender\Events\FromToMove.cs, Depender\Events\FromToRot.cs, Depender\HPMotors\MoverHP.cs, Depender\HPMotors\MultipleRotationsHP.cs, Depender\HPMotors\PendulumRotatorHP.cs, Depender\HPMotors\RotateBetweenHP.cs, Depender\HPMotors\RotatorHP.cs, Depender\Main.cs, Depender\Objects\CustomScenery\DecoMod.cs, Depender\Objects\CustomScenery\FenceMod.cs, Depender\Objects\CustomScenery\LampMod.cs, Depender\Objects\CustomScenery\SeatingAutoMod.cs, Depender\Objects\CustomScenery\SeatingMod.cs, Depender\Objects\CustomScenery\TrashBinMod.cs, Depender\Objects\FlatRide\FlatRideMod.cs, Depender\Objects\FlatRide\RideAnimationMod.cs, Depender\Objects\ModdedObject.cs, Depender\Events\SpinRotater.cs, Depender\Events\StartRotator.cs, Depender\Events\StopRotator.cs, Depender\Events\ToFromMove.cs, Depender\Events\ToFromRot.cs, Depender\Events\Wait.cs, Depender\Objects\Shops\CustomShop.cs, Depender\Objects\Shops\Products\ConsumableProductInstance.cs, Depender\Objects\Shops\Products\OngoingEffectProductInstance.cs, Depender\Objects\Shops\Products\WerableProductInstance.cs, Depender\Objects\Shops\ShopMod.cs, Depender\Registar.cs from `C:\Users\luukh\Documents\Parkitect\pnmods\ParkitectNexus@Depender`.
+[16-05-07 11:24:56] Info: Compile using compiler version v3.5.
+[16-05-07 11:25:29] Info: Loaded build-160507112456639, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-07 11:25:29] Info: Sucessfully registered Depender.Main to the mod manager.
